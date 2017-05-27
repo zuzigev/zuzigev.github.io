@@ -1,0 +1,27 @@
+.aboutMe{
+	width:30%;
+	height:100%;
+	background-color:purple;
+	float:left;
+}
+
+.content{
+	width: 70%;
+	height: 100%;
+	background-color:orange;
+	float:left;
+}
+
+.dominant{
+	width:100%;
+}
+
+img{
+	width:100%;
+}
+
+.bar{
+	width:100px;
+	height:20px;
+	background-color:grey;
+}
